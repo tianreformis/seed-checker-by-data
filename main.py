@@ -469,9 +469,13 @@ class SeedScannerApp(ctk.CTk):
         self.count_label.grid(row=1, column=2, padx=(5, 15), pady=(0, 6), sticky="e")
 
     def load_seed_file(self):
-        data_path = DATA_FILE
+        if getattr(sys, "frozen", False):
+            base_dir = os.path.dirname(sys.executable)
+        else:
+            base_dir = os.path.dirname(os.path.abspath(__file__))
+        data_path = os.path.join(base_dir, DATA_FILE)
         if not os.path.exists(data_path):
-            data_path = os.path.join(os.path.dirname(__file__), DATA_FILE)
+            data_path = DATA_FILE
         self.seeds = load_seeds(data_path)
         count = len(self.seeds)
         self.file_label.configure(text=f"{os.path.basename(DATA_FILE)}\n{count} seed{'' if count == 1 else 's'} loaded")

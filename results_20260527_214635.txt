@@ -1,0 +1,606 @@
+Seed Balance Scanner - Results
+Generated: 2026-05-27 21:46:35
+Total seeds scanned: 100
+Wallets with balance: 3
+================================================================================
+
+Seed #1: abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon art
+  BTC: 1JEDTpbBFeFHwwZnBwpZ4AxqMxiwHowV7W  |  Balance: 0.0000
+  ETH: 0x047e10141bf8e68948c2479f80cbe940c39c2c94  |  Balance: 0.0000
+  SOL: 5XdKi4PZD8x9QS7DptEpPBUHM1WQrKpPihYsK3LPSF8D  |  Balance: 0.0000
+  BNB: 0x047e10141bf8e68948c2479f80cbe940c39c2c94  |  Balance: ERR
+------------------------------------------------------------
+Seed #2: acid vintage artwork krypton gospel fossil glance frequent solid beyond exile bachelor
+  BTC: 1Jh3aGGcLrfzMoSAp8gf9oF5MtsBUEbonP  |  Balance: 0.0000
+  ETH: 0x3ae504cf1a2bb74b658bb94ce48e8d222dc892d4  |  Balance: 0.0000
+  SOL: J1PaPBb7qVTpPaViMfMu4SV6hJCxgYMLjUVfm8mmmuvn  |  Balance: 0.0000
+  BNB: 0x3ae504cf1a2bb74b658bb94ce48e8d222dc892d4  |  Balance: ERR
+------------------------------------------------------------
+Seed #3: anchor beacon melody canyon fossil jungle safari vortex quantum matrix shadow alpha
+  BTC: 1Fe9agjsXHP3KhRdef1nHdt3uGivHShNYe  |  Balance: 0.0000
+  ETH: 0xefe5afe40cf9932c89c07e1ecdb21878975c0fef  |  Balance: 0.0000
+  SOL: 4QZo9rx446jCq7emqQF2bgAQHrk37BNJXGkZcbFyJXPD  |  Balance: 0.0000
+  BNB: 0xefe5afe40cf9932c89c07e1ecdb21878975c0fef  |  Balance: ERR
+------------------------------------------------------------
+Seed #4: pioneer galaxy whisper echo timber jacket vibrant rhythm harvest frozen marble clutch
+  BTC: 1BoWgUW4s79VvHurBxMoZNLX8PR9EGwQEf  |  Balance: 0.0000
+  ETH: 0x51d731ec8a6de139abe512111ea5559ccfe1dd67  |  Balance: 0.0000
+  SOL: EKbW69BEA8sCAyuuNzB1VxSnDUTNwDBgT8nQe1WLwnzX  |  Balance: 0.0000
+  BNB: 0x51d731ec8a6de139abe512111ea5559ccfe1dd67  |  Balance: ERR
+------------------------------------------------------------
+Seed #5: actor beauty canvas danger effort flavor guitar helmet island jacket kitten madness
+  BTC: 1AKt3knrTHpR9ypmprgVAm4sCAEz2mTWL3  |  Balance: 0.0000
+  ETH: 0x7593b4e9c9478bf5fde967731891aade57e451da  |  Balance: 0.0000
+  SOL: 36YNLu5WWbTx1x55oaAJyAnjY7ZZGFpQZTCFMAR6x34U  |  Balance: 0.0000
+  BNB: 0x7593b4e9c9478bf5fde967731891aade57e451da  |  Balance: ERR
+------------------------------------------------------------
+Seed #6: bacon breeze cement damage element flight garage harbor impact journey kernel lyrics
+  BTC: 1MiexhTkZhdzWFS8oitb128uRu4ZYobHwX  |  Balance: 0.0000
+  ETH: 0x7911d43a99a2ec7c8281f928bc4ab14597ba72d4  |  Balance: 0.0000
+  SOL: 4jLAcYFpSLtacsoZvxvM5MtBg3q9LbUq7d7ztRbjTgXi  |  Balance: 0.0000
+  BNB: 0x7911d43a99a2ec7c8281f928bc4ab14597ba72d4  |  Balance: ERR
+------------------------------------------------------------
+Seed #7: cable cactus canary candle canvas canyon capital captain caravan carbon cargo bamboo
+  BTC: 1KGE5PWPNc5erngd8V1cvLurwTChpFaZjs  |  Balance: 0.0000
+  ETH: 0x9dc36e84e4b2505c17786ef268643baa69617f5e  |  Balance: 0.0000
+  SOL: 5dWyBnByUN4JkqfzMYifxhmE1ycwQLKQJ1HyWwCktMqL  |  Balance: 0.0000
+  BNB: 0x9dc36e84e4b2505c17786ef268643baa69617f5e  |  Balance: ERR
+------------------------------------------------------------
+Seed #8: dance daring darkness daughter dawn daylight dazzle decade december decide decline arena
+  BTC: 1QC6wVWgC37DGAwPgewK4uynLpaBCwZpLq  |  Balance: 0.0000
+  ETH: 0x564a8e8fbe414be6938c8b63e037c54cbf8f612a  |  Balance: 0.0000
+  SOL: 72DVaZ97vZKu73H4H4zMib3E3d7pQccwUzPdrTrWzyqn  |  Balance: 0.0000
+  BNB: 0x564a8e8fbe414be6938c8b63e037c54cbf8f612a  |  Balance: ERR
+------------------------------------------------------------
+Seed #9: eagle early earth easily east easy echo eclipse ecology economy ecstasy edge
+  BTC: 12ACerrK7Vn9K6DokJoHp9MobR5NZnjBLp  |  Balance: 0.0000
+  ETH: 0x4cc82bb82600466e7c48086efa7dd1466d902abc  |  Balance: 0.0000
+  SOL: 8JbmsgJ4eY1G1zqrAXVtWSFozQ8gDboUswBncJ4vrjey  |  Balance: 0.0000
+  BNB: 0x4cc82bb82600466e7c48086efa7dd1466d902abc  |  Balance: ERR
+------------------------------------------------------------
+Seed #10: fabric face fact fade faint faith fall false fame family famous fan
+  BTC: 12NypeA2LZuDAieUBMWtUwNy932fSW5WkY  |  Balance: 0.0000
+  ETH: 0x0fdc9d2b618a30b1881a312123079be8d3b7ad27  |  Balance: 0.0000
+  SOL: 8ZRXbyBmVd9u5nno2fdgqyrds69vbogUQeMMDx6bUvWb  |  Balance: 0.0000
+  BNB: 0x0fdc9d2b618a30b1881a312123079be8d3b7ad27  |  Balance: ERR
+------------------------------------------------------------
+Seed #11: galaxy gallery game gap garage garbage garden garlic garment gas gasp gate
+  BTC: 1CiCRHAQks42buZiw6wTxwA8z9Ru1dnRtr  |  Balance: 0.0000
+  ETH: 0x043891f34b38c832a3ccc5329b5f6853fa96fd08  |  Balance: 0.0000
+  SOL: 7nwKNHHkUDuuDzn5zbKnsikMudTCVEMf4AEEAqKJdtCG  |  Balance: 0.0000
+  BNB: 0x043891f34b38c832a3ccc5329b5f6853fa96fd08  |  Balance: ERR
+------------------------------------------------------------
+Seed #12: habit hair half hammer hamster hand happy harbor hard harsh harvest hat
+  BTC: 1QEeoTkLmdQdiygCEvCK8CgVN8YZn7vYjx  |  Balance: 0.0000
+  ETH: 0xe0d1a9b258539638760d00c4c5022cdf5e20e8af  |  Balance: 0.0000
+  SOL: ohB8M8o43bd9AzCTpzbVkTmSy1temQ6HoocWsDJgYb5  |  Balance: 0.0000
+  BNB: 0xe0d1a9b258539638760d00c4c5022cdf5e20e8af  |  Balance: ERR
+------------------------------------------------------------
+Seed #13: ice icon idea identify idle idol ignite illness illusion image imitate immense
+  BTC: 12exQD1aNHdhiTCnJi5z9cjd2LYVrNyVAy  |  Balance: 0.0000
+  ETH: 0x216adb0bdb8f81eaeb5aa882f2529362739a3aab  |  Balance: 0.0000
+  SOL: BZFxCNwzVrXyAFT1Q43h5jVpRowYxwtEjCQRzLjiYqug  |  Balance: 0.0000
+  BNB: 0x216adb0bdb8f81eaeb5aa882f2529362739a3aab  |  Balance: ERR
+------------------------------------------------------------
+Seed #14: jacket jaguar jail january jar jazz jealous jeans jelly jewel job join
+  BTC: 1TekeY7pMmYxsx1bvYpC6GRZWZ52qaXAb  |  Balance: 0.0000
+  ETH: 0x3fe6cd3e5dd9c9744e71a3b043ba103b701ba496  |  Balance: 0.0000
+  SOL: H7x56gEMxd2FKg6wYHMz1DWf3wFms3njraqGRamcR6sX  |  Balance: 0.0000
+  BNB: 0x3fe6cd3e5dd9c9744e71a3b043ba103b701ba496  |  Balance: ERR
+------------------------------------------------------------
+Seed #15: kangaroo keen keep ketchup kettle key kick kidney kind kingdom kiss kit
+  BTC: 1ByxJSNqeYQBCSJ1LxZUAdCvAgjxX3nQDT  |  Balance: 0.0000
+  ETH: 0x44e480c856adda67885425fd781322ca3239fe2a  |  Balance: 0.0000
+  SOL: BYEg7GQ7z21CHgWZn9rNoHiY4x853MukFtjNhNa3u8vv  |  Balance: 0.0000
+  BNB: 0x44e480c856adda67885425fd781322ca3239fe2a  |  Balance: ERR
+------------------------------------------------------------
+Seed #16: label labor ladder lady lake lamp language laptop large later latin laugh
+  BTC: 1MZrnsDRKvvkkyNZqvdVdE7LM1XwovKrAx  |  Balance: 0.0000
+  ETH: 0xf9b356ab4b9f4de59ed3263c97867114da9590dd  |  Balance: 0.0000
+  SOL: 41L5T754UBp3JB1zAj7JTGGgpn4guaLCs9VBNLWDU7DS  |  Balance: 0.0014
+  BNB: 0xf9b356ab4b9f4de59ed3263c97867114da9590dd  |  Balance: ERR
+------------------------------------------------------------
+Seed #17: machine mad magic magnet magnify maid mail main major make mammal man
+  BTC: 19ze3odvgbewUmCCk39ks5Hi1mtwLdphSx  |  Balance: 0.0000
+  ETH: 0x2577070224c528cbd9d1fd35f3eb1110de3410c4  |  Balance: 0.0000
+  SOL: 2F5Gq6cUvmaDTw3Uqfc54P8pmuZC9Jq4bTg8mrxvrVYA  |  Balance: 0.0000
+  BNB: 0x2577070224c528cbd9d1fd35f3eb1110de3410c4  |  Balance: ERR
+------------------------------------------------------------
+Seed #18: nail name narrow nasty nation nature near neck need negative neglect neither
+  BTC: 17tEQrFmQ2taCv425s4uYcbRiLCcXmmbxz  |  Balance: 0.0000
+  ETH: 0xd94ed9fd1bcfbf4c2cff4b73219ae71d5ab2aa14  |  Balance: 0.0000
+  SOL: 4habTuUnGrfa2KkvBAfnsNmW1DDa6UXTbdBGpxEBzYxL  |  Balance: 0.0000
+  BNB: 0xd94ed9fd1bcfbf4c2cff4b73219ae71d5ab2aa14  |  Balance: ERR
+------------------------------------------------------------
+Seed #19: obey object oblige obscure observe obtain obvious occur ocean october odor off
+  BTC: 1E5CxnxA6MgvAFD6TYcmiG9sM2QxNp9N7A  |  Balance: 0.0000
+  ETH: 0x7a9f5caa40c6ec1a8af72525d09d5069007c07f4  |  Balance: 0.0000
+  SOL: 6CkgGyW1CqoEqE66Yzfr4iK8Pb3oQUqyAhiGwEDLKcMv  |  Balance: 0.0000
+  BNB: 0x7a9f5caa40c6ec1a8af72525d09d5069007c07f4  |  Balance: ERR
+------------------------------------------------------------
+Seed #20: pack paddle page pair palace palm panda panel panic panther paper parade
+  BTC: 1Jt6wpc4uGMinfqcHuqmVXCD9zcZYeYSfs  |  Balance: 0.0000
+  ETH: 0x1bbd4c71a83b8f9b8956ed9ae7c6c874c735762e  |  Balance: 0.0000
+  SOL: Fb9vefb8kbFtDuSp4G6LVZx7GWKYVA2m65uXayz8Zbd3  |  Balance: 0.0000
+  BNB: 0x1bbd4c71a83b8f9b8956ed9ae7c6c874c735762e  |  Balance: ERR
+------------------------------------------------------------
+Seed #21: quantum quarter queen quench quest quick quid quiet quilt quintet quite quiz
+  BTC: 1P8BMHVJFM4o6t8P2tMqVFFErAy2J6ZR3y  |  Balance: 0.0000
+  ETH: 0xcd22dd33a7e688d468751207f9a21da6406084cd  |  Balance: 0.0000
+  SOL: BZdUu97nfJtzqZowMtYWVJgs98wuDp8ghjYj15BndoVh  |  Balance: 0.0000
+  BNB: 0xcd22dd33a7e688d468751207f9a21da6406084cd  |  Balance: ERR
+------------------------------------------------------------
+Seed #22: rabbit raccoon race rack radar radiant radius raft rage rail rain raise
+  BTC: 15jioHiaDYo8tgt1C6YLZ91MKkJjyQ7d8m  |  Balance: 0.0000
+  ETH: 0x6e3bddb202d62435f8e56b9e2058244993264fca  |  Balance: 0.0000
+  SOL: 9r2UySqVfsUAwurJNAqd6uXR51o9ouCB1DZeJAiqfBRP  |  Balance: 0.0000
+  BNB: 0x6e3bddb202d62435f8e56b9e2058244993264fca  |  Balance: ERR
+------------------------------------------------------------
+Seed #23: sad saddle sadness safari safe safety sage sail salad salmon salon salt
+  BTC: 1PztPM1ktYCjFJaY47z8fThgyg8gYbhc2i  |  Balance: 0.0000
+  ETH: 0x3551a9a3ee28f7128d2d97c52e213dad54f4efc0  |  Balance: 0.0000
+  SOL: HP9NftBXYyjLgXp6u29Ekt1PxjtL6RTXz4ciTtRtvXqU  |  Balance: 0.0000
+  BNB: 0x3551a9a3ee28f7128d2d97c52e213dad54f4efc0  |  Balance: ERR
+------------------------------------------------------------
+Seed #24: table tackle tag tail talent talk tank tape target tariff taste tattoo
+  BTC: 16xQDKXkR6zGjmRmWFPkoomoYzZrPLg1kn  |  Balance: 0.0000
+  ETH: 0x7b54851462203ff16c7785498872ca1a8e248016  |  Balance: 0.0000
+  SOL: G7drNg2UMrodkPFAvouzrvG2cnqLVv3AmQEeZcFr5czt  |  Balance: 0.0000
+  BNB: 0x7b54851462203ff16c7785498872ca1a8e248016  |  Balance: ERR
+------------------------------------------------------------
+Seed #25: ugly umbrella umpire unable unaware uncle uncover under undo unfair unfold unhappy
+  BTC: 1MUWsRUCy22EgRA7b7zGwFLPuBnkAcXBnr  |  Balance: 0.0000
+  ETH: 0x584657ad542e5f82632b0fb45f003715b0d3c508  |  Balance: 0.0000
+  SOL: 2gGD5WTfYLRSSiMBK24X5a5TJD4ukjHqR2oo5rMGqSQ5  |  Balance: 0.0000
+  BNB: 0x584657ad542e5f82632b0fb45f003715b0d3c508  |  Balance: ERR
+------------------------------------------------------------
+Seed #26: vacant vacuum vague valid valley valve van vanish vapor various varnish vary
+  BTC: 1BNej9rRDpUrfKfVYEASDoJ4Rbv3GWnUen  |  Balance: 0.0000
+  ETH: 0x2436870dd8f5005e5abe813353a54cb0469308c4  |  Balance: 0.0000
+  SOL: 7PgzBipPJB9zPbE3QKKv9t3DsnZHBShrtttrWJrx1Zun  |  Balance: 0.0000
+  BNB: 0x2436870dd8f5005e5abe813353a54cb0469308c4  |  Balance: ERR
+------------------------------------------------------------
+Seed #27: waffle wagon wait walk wall walnut want warfare warm warrior wash wasp
+  BTC: 1BTa3C1LzSoKkN6P9KeMEN8S9pvPa5JyTG  |  Balance: 0.0000
+  ETH: 0x347450f5f42ac2a15779076df8c07fa6c8462bd6  |  Balance: 0.0000
+  SOL: 9UeGBmHDZhPR5eyFGd99L6anwweVe8WzCatP7YcZU93P  |  Balance: 0.0000
+  BNB: 0x347450f5f42ac2a15779076df8c07fa6c8462bd6  |  Balance: ERR
+------------------------------------------------------------
+Seed #28: yard yarn year yellow yesterday yield yoga yoghurt young youth zebra zero
+  BTC: 1GAsrsnjDWxuzUvm4azLDGTLk9n4Xfz39V  |  Balance: 0.0000
+  ETH: 0xbba805a6a0af08f2a4c2b68af8549b2832d147fa  |  Balance: 0.0000
+  SOL: Exr4GxZgNU7LhX4y6hFdxbbVriWUy4feQtPM655NY3vC  |  Balance: 0.0000
+  BNB: 0xbba805a6a0af08f2a4c2b68af8549b2832d147fa  |  Balance: ERR
+------------------------------------------------------------
+Seed #29: absurd accident actor adopt afford agree alcohol alive almost alone alpha already
+  BTC: 1P9c1VKEmzrzMNLhkMotmqebwxdJcJiCUu  |  Balance: 0.0000
+  ETH: 0xe77312482feb40385c58a0796d913ae2f14c3c0e  |  Balance: 0.0000
+  SOL: EAewWaLxmNjX6Kg9BXsbnhVRvZRgU3YfXNM7QgFsExaM  |  Balance: 0.0000
+  BNB: 0xe77312482feb40385c58a0796d913ae2f14c3c0e  |  Balance: ERR
+------------------------------------------------------------
+Seed #30: bachelor badge baggage bakery balance bamboo banana banner barley barrel barrier base
+  BTC: 1FeTo91PeJPd1mNJGrKr4jChAinJRqQYhJ  |  Balance: 0.0000
+  ETH: 0x23ac1a0c1ce6c53d1e1c00c6e61c7e2cef9fe9d9  |  Balance: 0.0000
+  SOL: 56gGCvnsx8CCRsDYCjMzV5XEu8KUZXWyu7CkrKqogUoC  |  Balance: 0.0000
+  BNB: 0x23ac1a0c1ce6c53d1e1c00c6e61c7e2cef9fe9d9  |  Balance: ERR
+------------------------------------------------------------
+Seed #31: clutch coach coast coconut code coffee coil coin collect colony color column
+  BTC: 1NAGrEszTatYrpPXBxQSksn6jLoxgQWoNQ  |  Balance: 0.0000
+  ETH: 0xc45f34b5c279111455417f3e723a6ba02613484c  |  Balance: 0.0000
+  SOL: FH6Ss19Dz6DCXrhoijQ3NFB3sH25f7hvPc4Y3vP4WGut  |  Balance: 0.0000
+  BNB: 0xc45f34b5c279111455417f3e723a6ba02613484c  |  Balance: ERR
+------------------------------------------------------------
+Seed #32: depend deposit depth deputy derive desert design desk despair destroy detail detect
+  BTC: 1BV2rDmUrjrFkTJ5UGePVWPQJqzi8pkGyn  |  Balance: 0.0000
+  ETH: 0x257453a0ae44e2bdb3933a366a354df71a467eb3  |  Balance: 0.0000
+  SOL: Cc7wxDbnpUSesnQf2F8EasEv5MQ4bNrNXyj9D9oh65WU  |  Balance: 0.0000
+  BNB: 0x257453a0ae44e2bdb3933a366a354df71a467eb3  |  Balance: ERR
+------------------------------------------------------------
+Seed #33: energy enforce engine english enhance enjoy enlist enough enrich enroll ensure enter
+  BTC: 16DCC5NWocbSy148yAs8n982K8bKb5oJdE  |  Balance: 0.0000
+  ETH: 0x36c39bdb5d4b781b548954f9b1098bae6c5e1618  |  Balance: 0.0000
+  SOL: EsdzwZ5GuaWqXq3NnLJvFYFCCoPNpzw1YohUUeYpdyfG  |  Balance: 0.0000
+  BNB: 0x36c39bdb5d4b781b548954f9b1098bae6c5e1618  |  Balance: ERR
+------------------------------------------------------------
+Seed #34: fossil foster found fox fragile frame frequent fresh friction friend fridge frog
+  BTC: 1KuZgKg2qhEGc2Jij4voJ2LNWGhpEtmPmW  |  Balance: 0.0000
+  ETH: 0xa44e4795cb33bc766dda22ee3afe7b13fbc5b1cb  |  Balance: 0.0000
+  SOL: 8AqLBAD5Ustkcs89UT9yp39uxkNE8yx83efBRiR6nEan  |  Balance: 0.0000
+  BNB: 0xa44e4795cb33bc766dda22ee3afe7b13fbc5b1cb  |  Balance: ERR
+------------------------------------------------------------
+Seed #35: genius genre gentle genuine gesture ghost giant gift giggle ginger giraffe girl
+  BTC: 112VqzUykcrcr2UNiUTnUoFJXCkmJNZxsS  |  Balance: 0.0000
+  ETH: 0x94ace924492b47f344a40a090ebc1a8d02f3c9aa  |  Balance: 0.0000
+  SOL: XwEzNbUowVQ6N7mWGHDNbdF2SuBkJESSa5d84RXivh7  |  Balance: 0.0000
+  BNB: 0x94ace924492b47f344a40a090ebc1a8d02f3c9aa  |  Balance: ERR
+------------------------------------------------------------
+Seed #36: helmet help hen herbal herd here hero hidden high hill hint hip
+  BTC: 1Q3bpckg7825GQhnm6cVZNSsFt1gSijCRd  |  Balance: 0.0000
+  ETH: 0x337470535cb04ade954f63be6c42f12969a2a003  |  Balance: 0.0000
+  SOL: 8PGfSuYaEv4MEn3N2LH9HcJB3Wn3Xjm6dj5zK31k6pyt  |  Balance: 0.0000
+  BNB: 0x337470535cb04ade954f63be6c42f12969a2a003  |  Balance: ERR
+------------------------------------------------------------
+Seed #37: infant infect inform inhale inherit initial inject injury ink innocent input inquiry
+  BTC: 1HpUED53Ah1qEgQMk8BZvkRjJyt9X7yrrD  |  Balance: 0.0000
+  ETH: 0x5f6c9a95b8200bb9a7824e5a6273cf79cec40b9a  |  Balance: 0.0000
+  SOL: 9Qfga4GzGQsbEZjfjE3pC8tcAxV96Qu9adqAxWuEfhrU  |  Balance: 0.0000
+  BNB: 0x5f6c9a95b8200bb9a7824e5a6273cf79cec40b9a  |  Balance: ERR
+------------------------------------------------------------
+Seed #38: jungle junior junk just kangaroo keen keep ketchup kettle key kick kidney
+  BTC: 1M8oGgUbK4R1t1CqT354jzyEJJ5Lt8uoYp  |  Balance: 0.0000
+  ETH: 0x94ed316260236c8abce079952089714f65f271b2  |  Balance: 0.0000
+  SOL: 36YKRid2octTSMJ5DN25qTXBHQ547AaUrjY7NptHrjDz  |  Balance: 0.0000
+  BNB: 0x94ed316260236c8abce079952089714f65f271b2  |  Balance: ERR
+------------------------------------------------------------
+Seed #39: lyrics machine mad magic magnet magnify maid mail main major make mammal
+  BTC: 1NM9GLJTffyoASRa168KgxGBw3UYsLsdr8  |  Balance: 0.0000
+  ETH: 0x2068605a4d930449576225a38b843576eee66074  |  Balance: 0.0000
+  SOL: HJucv6H2YDhWmjWA2uQB3hVbfXohgKcd3poRnnPxtfqy  |  Balance: 0.0000
+  BNB: 0x2068605a4d930449576225a38b843576eee66074  |  Balance: ERR
+------------------------------------------------------------
+Seed #40: matrix matter maximum maze meadow mean meantime meanwhile measure meat mechanic medal
+  BTC: 1AJx4Di2cr1obfToM9Acfi3ULQiToordem  |  Balance: 0.0000
+  ETH: 0xe4f77b4ddc8418837a845386387a075d91ebf93a  |  Balance: 0.0000
+  SOL: C7wfDDMnhRTi2SPGoWnio826fAE6TYfiBJyBXiDRvhes  |  Balance: 0.0000
+  BNB: 0xe4f77b4ddc8418837a845386387a075d91ebf93a  |  Balance: ERR
+------------------------------------------------------------
+Seed #41: neutral never news next nice night nimble nine nipple nitro noble nod
+  BTC: 1JWGK8Tp2qaZYqg41rA6R38JJdZXR5H1TG  |  Balance: 0.0000
+  ETH: 0xe743819d7a15907d8f6d7415a28a6ef2427a7194  |  Balance: 0.0000
+  SOL: 5dAKqRMVC4ce1xf45xqwgP4wunh6CrrEF8WgTTbdvSvy  |  Balance: 0.0000
+  BNB: 0xe743819d7a15907d8f6d7415a28a6ef2427a7194  |  Balance: ERR
+------------------------------------------------------------
+Seed #42: olympic omega omitted once one onion online only open opera opinion opium
+  BTC: 1NdpHxZzvH9zkXXhzurNMCWvqRyZ8HqhwL  |  Balance: 0.0000
+  ETH: 0xa75f6bf171b3270e10426924d6681b980136ec2e  |  Balance: 0.0000
+  SOL: 3yGRjkKGFZVQKeueaXBEKBFV5MPohqAtzieuPQRx2PX6  |  Balance: 0.0000
+  BNB: 0xa75f6bf171b3270e10426924d6681b980136ec2e  |  Balance: ERR
+------------------------------------------------------------
+Seed #43: pioneer pipe pistol pitch pizza place planet plastic plate play please pledge
+  BTC: 1A62iSiTwC9MUtApNzpcYGRQw1ibEQVsYn  |  Balance: 0.0000
+  ETH: 0x042a04a547b839d356423c827567ad705ac7ebc9  |  Balance: 0.0000
+  SOL: F4d5adxtMq5VmbkXdwL9NcyoUKLcerZHTCMAbURrNu7X  |  Balance: 0.0000
+  BNB: 0x042a04a547b839d356423c827567ad705ac7ebc9  |  Balance: ERR
+------------------------------------------------------------
+Seed #44: quantum quarter queen quench quest quick quid quiet quilt quintet quite quiz
+  BTC: 1P8BMHVJFM4o6t8P2tMqVFFErAy2J6ZR3y  |  Balance: 0.0000
+  ETH: 0xcd22dd33a7e688d468751207f9a21da6406084cd  |  Balance: 0.0000
+  SOL: BZdUu97nfJtzqZowMtYWVJgs98wuDp8ghjYj15BndoVh  |  Balance: 0.0000
+  BNB: 0xcd22dd33a7e688d468751207f9a21da6406084cd  |  Balance: ERR
+------------------------------------------------------------
+Seed #45: rhythm rib ribbon rice rich ride ridge rifle right rigid ring riot
+  BTC: 1bhtM2asny8oUQa3Avc3M4e6L541L3Fbi  |  Balance: 0.0000
+  ETH: 0x6d3497ac5768a9c5d5760995f80eac42ea560b51  |  Balance: 0.0000
+  SOL: f3KYWCgdDQwfbEwZXRpuQ7pHdWym6PtkMxMQp2AQ6dn  |  Balance: 0.0014
+  BNB: 0x6d3497ac5768a9c5d5760995f80eac42ea560b51  |  Balance: ERR
+------------------------------------------------------------
+Seed #46: shadow shaft shame shampoo share shark sharp shatter shawl sheep shelf shell
+  BTC: 16oQ78w7seXv6aGcGELAnhLkL3Ruh1PQvt  |  Balance: 0.0000
+  ETH: 0x094f49fa4c9636c6e0a628a96ab1b6ab17b84485  |  Balance: 0.0000
+  SOL: J5vPbNP24Uqsd8BgxChykMndP9kCjGKgw37NaSenALTx  |  Balance: 0.0000
+  BNB: 0x094f49fa4c9636c6e0a628a96ab1b6ab17b84485  |  Balance: ERR
+------------------------------------------------------------
+Seed #47: timber time tiny tip tired tissue title toast tobacco today toddler toe
+  BTC: 1NzsnXNdSjX7Ky7CVCRuZyeesSVaHihkJ3  |  Balance: 0.0000
+  ETH: 0x50d8c728988433f982d246093ba057454ffed359  |  Balance: 0.0000
+  SOL: JBoae4mTZ5GCMVzynzTWWQ535GwDVKMzQaGmxtMrrCN6  |  Balance: 0.0000
+  BNB: 0x50d8c728988433f982d246093ba057454ffed359  |  Balance: ERR
+------------------------------------------------------------
+Seed #48: vibrant vicious victory video view village vintage violin viper viral virtue virus
+  BTC: 1LGak6kRnvakT1u6hTAwNR1vR4diG7Qfkq  |  Balance: 0.0000
+  ETH: 0xb1b4b1d3b66a0510906b36dfb19343acb9ba1281  |  Balance: 0.0000
+  SOL: 76mrwD5Z24z1E9wPcKaQAva5ForVnG9CB2LK5w2PKW6  |  Balance: 0.0000
+  BNB: 0xb1b4b1d3b66a0510906b36dfb19343acb9ba1281  |  Balance: ERR
+------------------------------------------------------------
+Seed #49: whisper wide width wife wild will win window wine wing wink winner
+  BTC: 1HqMj8ZEFyFXZEfpPt394xe7HiPGz9nBtB  |  Balance: 0.0000
+  ETH: 0x194d940fe8eef5ebffd3b3af017b5d2a7c37ef6f  |  Balance: 0.0000
+  SOL: ADnCgJrjkUJeSSM3dKcsfhy4EniDLKgHEyjCk6ryqNRa  |  Balance: 0.0014
+  BNB: 0x194d940fe8eef5ebffd3b3af017b5d2a7c37ef6f  |  Balance: ERR
+------------------------------------------------------------
+Seed #50: alpha art bachelor bamboo banana banner barley barrel barrier base basic basket
+  BTC: 18GjA6y3wvZ36EYcsMgQYSCLZF8tHVLxXP  |  Balance: 0.0000
+  ETH: 0x1379b324d9a7d72147561121b5afcb2f6353e188  |  Balance: 0.0000
+  SOL: 8NtvAUbQMAXtm7L84h6fPPejiWWMjvqAKm7PRcruDRuF  |  Balance: 0.0000
+  BNB: 0x1379b324d9a7d72147561121b5afcb2f6353e188  |  Balance: ERR
+------------------------------------------------------------
+Seed #51: about above abuse access account accuse achieve acid acoustic acquire across act
+  BTC: 1Jwfcn7zBtAUM5CN6u6AKLtyEyoqAZ4BfX  |  Balance: 0.0000
+  ETH: 0x1abc5d5946e523d0e7ed2071bd9ddc4acd4ecb2e  |  Balance: 0.0000
+  SOL: HeZLEqRLnRauL9Rw1q16h7g8iQJPyMwXhzrcCf3QTEuG  |  Balance: 0.0000
+  BNB: 0x1abc5d5946e523d0e7ed2071bd9ddc4acd4ecb2e  |  Balance: ERR
+------------------------------------------------------------
+Seed #52: alarm alcohol alert alien alike alive all alley allow almost alone alpha
+  BTC: 14yHWX8pdmHD4pdhpzvSxayQHEb6T7ovHc  |  Balance: 0.0000
+  ETH: 0xcaa42114ac5ce2c1b98780fd300152585f87325c  |  Balance: 0.0000
+  SOL: A5TBwUH6we4uPiwvAyKq5aWiPAbnFKJKwGsizhLfSu7g  |  Balance: 0.0000
+  BNB: 0xcaa42114ac5ce2c1b98780fd300152585f87325c  |  Balance: ERR
+------------------------------------------------------------
+Seed #53: amount amuse analyst anchor ancient anger angle angry animal ankle announce annual
+  BTC: 1PRXAjFLbkVXdpu3z9LtLEti52TTpn6i9s  |  Balance: 0.0000
+  ETH: 0x47ac57bbb9b512b71d3be6e9a69d9292b46a049e  |  Balance: 0.0000
+  SOL: C89Rpzjr9GZNBqNtQkD5optWbbnH4HLEmxNBkLVMWABM  |  Balance: 0.0000
+  BNB: 0x47ac57bbb9b512b71d3be6e9a69d9292b46a049e  |  Balance: ERR
+------------------------------------------------------------
+Seed #54: arch arctic area arena argue arm armed armor army around arrange arrest
+  BTC: 18i1ULMB9WSnimVB3Mnp3vSVb7mcMKYHcu  |  Balance: 0.0000
+  ETH: 0xb9d3477ce835b49f70473ac18fe958512bd00b6f  |  Balance: 0.0000
+  SOL: DjGaToD2WyMor1GrRiK4mCvrfuQn4JhcTx7mkEfPZRg2  |  Balance: 0.0000
+  BNB: 0xb9d3477ce835b49f70473ac18fe958512bd00b6f  |  Balance: ERR
+------------------------------------------------------------
+Seed #55: asset assist assume asthma athlete atom attack attend attitude attract auction audit
+  BTC: 1BDd4WxjDVDxdYA4tmSoGM9qhJ86vXiaoo  |  Balance: 0.0000
+  ETH: 0x46790f780c63574abdc85dc2d8b62f3756b27747  |  Balance: 0.0000
+  SOL: BUgmRoDP3upegjubLRsJJfhRANRCbfUM4WLSRAsLjyrS  |  Balance: 0.0000
+  BNB: 0x46790f780c63574abdc85dc2d8b62f3756b27747  |  Balance: ERR
+------------------------------------------------------------
+Seed #56: bacon badge bag baggage bakery balance balcony ball bamboo banana banner bar
+  BTC: 1G7b8YcECk6LftvQRiPerEWhhahu8WKCLb  |  Balance: 0.0000
+  ETH: 0x5cc6e9db14901624ae88803837d29fc0ab1604a9  |  Balance: 0.0000
+  SOL: EwB1cj2uJCMGfXpBR2RKkhznmety3MqYBjR2xPFkSeY6  |  Balance: 0.0000
+  BNB: 0x5cc6e9db14901624ae88803837d29fc0ab1604a9  |  Balance: ERR
+------------------------------------------------------------
+Seed #57: basic basket battle beach bean beauty because become beef before begin behave
+  BTC: 18kp1tuXR1PxhT8HhtSd84y993AP2CKRuT  |  Balance: 0.0000
+  ETH: 0x8509390046f5a61727b480e938998c6a3f4197d1  |  Balance: 0.0000
+  SOL: 9CNEDyW5WSty1npNi9kG9SqnMZJnS4HwG9fHzZbaKNTq  |  Balance: 0.0000
+  BNB: 0x8509390046f5a61727b480e938998c6a3f4197d1  |  Balance: ERR
+------------------------------------------------------------
+Seed #58: below belt bench benefit best betray better between beyond bicycle bid bike
+  BTC: 1APi8iuxSrLn6GbZi4Qi5PXBBtzswKsNoc  |  Balance: 0.0000
+  ETH: 0xf1a772d08a80a7f61e92f8d0f28f6a656a1ca1c4  |  Balance: 0.0000
+  SOL: xNoQuzQB479S1RShiysZoX1zhzhiK9czA8HwZ8u7JXU  |  Balance: 0.0000
+  BNB: 0xf1a772d08a80a7f61e92f8d0f28f6a656a1ca1c4  |  Balance: ERR
+------------------------------------------------------------
+Seed #59: bitter black blade blame blanket blast bleak bless blind blood blossom blouse
+  BTC: 1LT1MUm9J2Yu6yGBmvgjyM6YkFZ9L8Qr2k  |  Balance: 0.0000
+  ETH: 0xb0fd7ac82fe1b07ca86484330e639cdc9469871b  |  Balance: 0.0000
+  SOL: J2dFmkQURfAaaWT1ikhnM1G7YemuWADkuffVWXFWxhzw  |  Balance: 0.0000
+  BNB: 0xb0fd7ac82fe1b07ca86484330e639cdc9469871b  |  Balance: ERR
+------------------------------------------------------------
+Seed #60: border boring borrow boss bottom bounce box boy bracket brain brand brass
+  BTC: 1Kbm9e4XwdWoV6XXSG4qdRLQfX19QtDbz9  |  Balance: 0.0000
+  ETH: 0x08773519cb3a78533073e218d62fa976746594f5  |  Balance: 0.0000
+  SOL: BKEGpXEuZ4J2T2v7fZ8ALPZXsQXREXHs52J8ECNV6u6i  |  Balance: 0.0000
+  BNB: 0x08773519cb3a78533073e218d62fa976746594f5  |  Balance: ERR
+------------------------------------------------------------
+Seed #61: bridge brief bright bring brisk broccoli broken bronze broom brother brown brush
+  BTC: 15dFxr9hLphcEagvTCPUz4M9Z7j4oveH74  |  Balance: 0.0000
+  ETH: 0x3c2760de430be35b6164d1803a70b15b6b2ad922  |  Balance: 0.0000
+  SOL: ANXsL21T4uFv1C8k23iZBoBdccZ3pFpyaWTLJhbBe2eb  |  Balance: 0.0000
+  BNB: 0x3c2760de430be35b6164d1803a70b15b6b2ad922  |  Balance: ERR
+------------------------------------------------------------
+Seed #62: bullet bunch bundle burger burst bus business busy butter buyer buzz cabbage
+  BTC: 1JJzXM4CTgtZjKpcDBSg8fTaLM6rwtDjG4  |  Balance: 0.0000
+  ETH: 0xb427d40034bf8c84d303236b90cdc429f03f6531  |  Balance: 0.0000
+  SOL: DintC3oZDiZ7EjaAp8vK6cauaft75wEWGDQTbB9uJZYm  |  Balance: 0.0000
+  BNB: 0xb427d40034bf8c84d303236b90cdc429f03f6531  |  Balance: ERR
+------------------------------------------------------------
+Seed #63: camera camp can canal canary candle candy cannon canoe canvas canyon capable
+  BTC: 1JaJ6n8qvmcRQqZMcpURRF6JjTthrdJ8dg  |  Balance: 0.0000
+  ETH: 0x0ed35857a1594152813294fde8ba4d509ed9a0e7  |  Balance: 0.0000
+  SOL: 7zgBTGnJZrLi1ReX1sX66DsstVpoZG5mt4e2nKADJkzg  |  Balance: 0.0000
+  BNB: 0x0ed35857a1594152813294fde8ba4d509ed9a0e7  |  Balance: ERR
+------------------------------------------------------------
+Seed #64: care cargo carpet carry cart case cash casino castle casual cat catalog
+  BTC: 1MYBn9jYvsPy3t6nQHV1PNiC5t4vhLfoTk  |  Balance: 0.0000
+  ETH: 0x422145c1e42e046800c97f662915f44ee0501083  |  Balance: 0.0000
+  SOL: 2bE4vRhzq7erZoEp2bJcN9kaX7sNsAFKbQ6u734XMnyF  |  Balance: 0.0000
+  BNB: 0x422145c1e42e046800c97f662915f44ee0501083  |  Balance: ERR
+------------------------------------------------------------
+Seed #65: cement census century cereal certain chair chalk champion change chaos chapter charge
+  BTC: 1AKm7K6YdWiZ12sWXFtpBxKhTH7eqMgzvD  |  Balance: 0.0000
+  ETH: 0xcd5a5ce0b1aaa5a9289364b046c1e2c07af27954  |  Balance: 0.0000
+  SOL: DDkj44CF99agvt5iE2QuqiJcpDyutkDTeRgwNeFYhsrW  |  Balance: 0.0000
+  BNB: 0xcd5a5ce0b1aaa5a9289364b046c1e2c07af27954  |  Balance: ERR
+------------------------------------------------------------
+Seed #66: chef chemical cherry chest chicken chief child chimney china chiz choice choose
+  BTC: 1CyyzvxjjNPyaA2vndQPJpGQsFZBPYNxMn  |  Balance: 0.0000
+  ETH: 0x422051c32237c2dbc067b3709d2dafbfd82acef9  |  Balance: 0.0000
+  SOL: 8oMwfUSLxAbBCqQzua4LaCkFDqJSbLTEgfzicpEFUjWq  |  Balance: 0.0000
+  BNB: 0x422051c32237c2dbc067b3709d2dafbfd82acef9  |  Balance: ERR
+------------------------------------------------------------
+Seed #67: cigar cinnamon circle citizen city civil claim clap clarify claw clay clean
+  BTC: 1L4sovzVZeeo8rL9bxuBZEQrbcsXAzC4fH  |  Balance: 0.0000
+  ETH: 0x03bb05e94f8539ad1281fdbafbeb183459967c9a  |  Balance: 0.0000
+  SOL: AqwbopinqHfdgAgQH8N7m4dRmYyNzqUMXnzgeMW8vhFw  |  Balance: 0.0000
+  BNB: 0x03bb05e94f8539ad1281fdbafbeb183459967c9a  |  Balance: ERR
+------------------------------------------------------------
+Seed #68: clerk clever click client cliff climb clinic clip clock clog close cloth
+  BTC: 1KeXbE6mAnSKt5URdaiFp8v79SCGq8MJ6Q  |  Balance: 0.0000
+  ETH: 0x85e8f4f1d978b61d32bde39342113f408bff6c8f  |  Balance: 0.0000
+  SOL: GbAEzP2gTp8DS9aZcLMiWweWbpZ4HrGcPeUjtUx6Mbyd  |  Balance: 0.0000
+  BNB: 0x85e8f4f1d978b61d32bde39342113f408bff6c8f  |  Balance: ERR
+------------------------------------------------------------
+Seed #69: cluster clutch coach coast coconut code coffee coil coin collect colony color
+  BTC: 1Hi4bcftYo88uA7pM49zx7rExUcySJSX4V  |  Balance: 0.0000
+  ETH: 0x9e091e29cb0573c3e514ebd33dbca9a01b8e2620  |  Balance: 0.0000
+  SOL: 33frQuEMwjj4R3PsBoqUXmq9w4JCDLrCHeHkDQ7HiQ75  |  Balance: 0.0000
+  BNB: 0x9e091e29cb0573c3e514ebd33dbca9a01b8e2620  |  Balance: ERR
+------------------------------------------------------------
+Seed #70: common community company compare compass compete compile complain complete confirm congo congress
+  BTC: 13NSytr8PkQHJbgNVENWSWoca4SRQFkUM4  |  Balance: 0.0000
+  ETH: 0xb77474e482d2baea8ca183b32cddf8d356a3c466  |  Balance: 0.0000
+  SOL: CD7c4Vj9hNQvtUsipEZd5bfQq6ZHeiCdMVtmBQbzKcGH  |  Balance: 0.0000
+  BNB: 0xb77474e482d2baea8ca183b32cddf8d356a3c466  |  Balance: ERR
+------------------------------------------------------------
+Seed #71: cool copper copy coral core corn corner corona correct cost cotton couch
+  BTC: 135yysoY8Ryo3H3dMbhipS4R7ZGWPd57Bs  |  Balance: 0.0000
+  ETH: 0x8d16ba7ed4f55727aacf4d2b06189b1da6726be0  |  Balance: 0.0000
+  SOL: 12gWgAnUhRm5nnLR7Kq5sDjbgry8t7GgbYzpDy1RseSH  |  Balance: 0.0000
+  BNB: 0x8d16ba7ed4f55727aacf4d2b06189b1da6726be0  |  Balance: ERR
+------------------------------------------------------------
+Seed #72: coyote crack cradle craft cram crane crash crater crawl crazy cream credit
+  BTC: 1PZm98er77Sjones55U1qfU77KpFypEGkE  |  Balance: 0.0000
+  ETH: 0xd4a14850d34a11e1f923a761fdf04eaad4345660  |  Balance: 0.0000
+  SOL: 6TGhFXcxMN8MwULyPyc2XRzdXtYWcRovq9ECzhELJBPD  |  Balance: 0.0000
+  BNB: 0xd4a14850d34a11e1f923a761fdf04eaad4345660  |  Balance: ERR
+------------------------------------------------------------
+Seed #73: crisp critic crop cross crouch crowd cruel cruise crumble crunch crush cry
+  BTC: 19wrZemDumEjP7oJHQz41fShjosAGDmBdV  |  Balance: 0.0000
+  ETH: 0xba10dd5094128622058285209fd46980751b5ef1  |  Balance: 0.0000
+  SOL: 9JMNpAD3c3gsGhyh5M7MkXqNKhWueKSPCLLXipKuNwRN  |  Balance: 0.0000
+  BNB: 0xba10dd5094128622058285209fd46980751b5ef1  |  Balance: ERR
+------------------------------------------------------------
+Seed #74: curtain curve cushion custom cute cycle daddy damage damp dance danger daring
+  BTC: 1Mt7ssZ1bzd4oQCCfABXUZBwq45HmjUZQ3  |  Balance: 0.0000
+  ETH: 0x48a306cc70d90e5afeeebbad975e5598d8d31c2b  |  Balance: 0.0000
+  SOL: 8A2cxBwaNMubziqtTeBDJ3p2Fq4M9N8wBUSnMy2qRX1H  |  Balance: 0.0000
+  BNB: 0x48a306cc70d90e5afeeebbad975e5598d8d31c2b  |  Balance: ERR
+------------------------------------------------------------
+Seed #75: dawn day daylight dazzle dead deaf deal dear decade december decide decline
+  BTC: 1APQ8KTrMsmQdUKS2Ko5cMB5zqDUbPsEUH  |  Balance: 0.0000
+  ETH: 0x76eef82863d5ab05eec5d33e41f1dd37fa808cfa  |  Balance: 0.0000
+  SOL: wCQaPjqbVixaz6PfBmviB1hUXPbxUMZAAWXwQPMptjv  |  Balance: 0.0000
+  BNB: 0x76eef82863d5ab05eec5d33e41f1dd37fa808cfa  |  Balance: ERR
+------------------------------------------------------------
+Seed #76: deer defend define defy degree delay deliver delivery demand demise denial dentist
+  BTC: 1NWCcCtfn9erb3Rbe31qXmZY2qWS7gB6gv  |  Balance: 0.0000
+  ETH: 0x9a1481d3b94b767a48d42e986192bdc930ba9fcb  |  Balance: 0.0000
+  SOL: FjkHeNngi3K3wo6zJmssNau1aUQLxg378RZc7jPPey7B  |  Balance: 0.0000
+  BNB: 0x9a1481d3b94b767a48d42e986192bdc930ba9fcb  |  Balance: ERR
+------------------------------------------------------------
+Seed #77: derive desert design desk despair destroy detail detect device devote diagram dial
+  BTC: 1L61x9r5VtPS6xhcHQTePyvm49SRqveALG  |  Balance: 0.0000
+  ETH: 0x4a16e780fe67d325962d06998b4faa7df7175054  |  Balance: 0.0000
+  SOL: 4mfts2iQpys16C9r6AEsPJXnrmWDP5oYEh75SdFXSUzk  |  Balance: 0.0000
+  BNB: 0x4a16e780fe67d325962d06998b4faa7df7175054  |  Balance: ERR
+------------------------------------------------------------
+Seed #78: diesel diet differ digital dignity dilemma dinner dinosaur direct dirt disagree discover
+  BTC: 1P1VtwXUqm2qpRh3qTrojLYPDHWR8T8U6U  |  Balance: 0.0000
+  ETH: 0xac2000dda130cd8b550479c7831511c6be16a734  |  Balance: 0.0000
+  SOL: HvbKmPYpDofFyejFM6RJtZbriUjwWrJWr6EPcLehCnLa  |  Balance: 0.0000
+  BNB: 0xac2000dda130cd8b550479c7831511c6be16a734  |  Balance: ERR
+------------------------------------------------------------
+Seed #79: divide divorce dizzy doctor document dog doll dolphin domain donate donkey donor
+  BTC: 14Dep3VSHH2bYFczVfqQnvjguQyC8qAq5z  |  Balance: 0.0000
+  ETH: 0xe996068941377701220ec8fd578acd494755965a  |  Balance: 0.0000
+  SOL: 7h222PvMr93YVofdQU1ZWis6EtiyyRdPfqVLbVaMrxM7  |  Balance: 0.0000
+  BNB: 0xe996068941377701220ec8fd578acd494755965a  |  Balance: ERR
+------------------------------------------------------------
+Seed #80: drama drastic draw drawer dream dress drift drill drink drip drive drop
+  BTC: 187hs1K7qHdh6bvGvDxdFFpUJu6etg9Nga  |  Balance: 0.0000
+  ETH: 0xc8c6c1dde7cb2c6d7d6154a7bb0e2ccdec4213f7  |  Balance: 0.0000
+  SOL: 81s4CU4HMPpXPWRGYnpdR545tmwuZimmXwVG3jTtKEnh  |  Balance: 0.0000
+  BNB: 0xc8c6c1dde7cb2c6d7d6154a7bb0e2ccdec4213f7  |  Balance: ERR
+------------------------------------------------------------
+Seed #81: duck duct due duel dull dummy dune during dust dutch duty dwarf
+  BTC: 1HfSLuWGq8WP5iE6U4gxmY1oadet2KTxgc  |  Balance: 0.0000
+  ETH: 0xc96c556c61fe6375249a9fc844eecaea6ef26fdd  |  Balance: 0.0000
+  SOL: DQidQ2KffyfTD728Hvw68cERf2TihHAWiM3LBuFAmn4G  |  Balance: 0.0000
+  BNB: 0xc96c556c61fe6375249a9fc844eecaea6ef26fdd  |  Balance: ERR
+------------------------------------------------------------
+Seed #82: earn earth earthquake east easy eat echo eclipse ecology economy ecstasy edge
+  BTC: 17hzDXKbUMTFpEDFmFwSegQR1PikUctFWL  |  Balance: 0.0000
+  ETH: 0x6389ef76f7af5e738328566f24cadd9474185dc5  |  Balance: 0.0000
+  SOL: 3YeB8qASthjvgYbV5xGT3Pf11MvWnfqzuFhC6qCxqVTC  |  Balance: 0.0000
+  BNB: 0x6389ef76f7af5e738328566f24cadd9474185dc5  |  Balance: ERR
+------------------------------------------------------------
+Seed #83: effect effort egg egypt eight either elbow elder electric elegant element elephant
+  BTC: 16gS8ZWuySuoyymn6hntjJnEXLmnSi5uva  |  Balance: 0.0000
+  ETH: 0x5ab0f1c0a78a7c934e2d2fa97a2a7b9ad2876181  |  Balance: 0.0000
+  SOL: 8CFM8eDHNXwQziYrznCFDkCKThH6Ttb1mQfFgPb9w8nn  |  Balance: 0.0000
+  BNB: 0x5ab0f1c0a78a7c934e2d2fa97a2a7b9ad2876181  |  Balance: ERR
+------------------------------------------------------------
+Seed #84: elite elk elliptical else emblem embody embrace emerge emotion emperor emphasis employ
+  BTC: 18anyzc2cfMQM9AdkTm8uWutMFLYttWUwN  |  Balance: 0.0000
+  ETH: 0x17926c9587f6dac5e6f2772f63fba9553bf05a62  |  Balance: 0.0000
+  SOL: 2ocKViMYUSTFthc3YPJeb6mHkfBtimrm3h5in8rT4GXU  |  Balance: 0.0000
+  BNB: 0x17926c9587f6dac5e6f2772f63fba9553bf05a62  |  Balance: ERR
+------------------------------------------------------------
+Seed #85: endless endorse enemy energy enforce engine english enhance enjoy enlist enough enrich
+  BTC: 1M8p7G98inBftn8hhditbUwAJ8zQVWURAS  |  Balance: 0.0000
+  ETH: 0x1349067a466aa88f20a5354cab15094322dd6818  |  Balance: 0.0000
+  SOL: J28h2kpVBUAUMfsaq6VPGkXhKidkBkfiwTNeoC2S5jTU  |  Balance: 0.0000
+  BNB: 0x1349067a466aa88f20a5354cab15094322dd6818  |  Balance: ERR
+------------------------------------------------------------
+Seed #86: entry envelope environment episode equal equip era erase erode erosion error erupt
+  BTC: 1ADUQPLTrveUofB8EYFFR3iipPxkk69zhW  |  Balance: 0.0000
+  ETH: 0x978f810fee0bc151ddd6484c968695ab1177c859  |  Balance: 0.0000
+  SOL: 2UyYqi6b5ZJH9Xx9py8Lh9vgL79kbviRYWPBgaUcptov  |  Balance: 0.0000
+  BNB: 0x978f810fee0bc151ddd6484c968695ab1177c859  |  Balance: ERR
+------------------------------------------------------------
+Seed #87: estate eternal ethics evidence evil evoke evolve exact exalt examine example excent
+  BTC: 14n61DoGzf45ZKGM2V8KsdXcHtwyJ2pXXc  |  Balance: 0.0000
+  ETH: 0x86006ed92910fb95fd2a7651f7fa12a6ff8d3348  |  Balance: 0.0000
+  SOL: 8Nge2da1mGmnEogEkDKHYyizmwudsz1AbqffXpWd6Skg  |  Balance: 0.0000
+  BNB: 0x86006ed92910fb95fd2a7651f7fa12a6ff8d3348  |  Balance: ERR
+------------------------------------------------------------
+Seed #88: exercise exhaust exhibit exile exist exit exotic expand expect expend expense expert
+  BTC: 13S4igEK3xfaGR9XQ1psjhbLXJd2W1NpMU  |  Balance: 0.0000
+  ETH: 0x856dfede8b5430af6e285111a152f38285ac31bf  |  Balance: 0.0000
+  SOL: BC9GjXqLe5wQgyHxWnqxRkr7GLGzAxFSfi8JHceYAZbu  |  Balance: 0.0000
+  BNB: 0x856dfede8b5430af6e285111a152f38285ac31bf  |  Balance: ERR
+------------------------------------------------------------
+Seed #89: expose express extend extra eye eyebrow fabric face facet facilitate fact factor
+  BTC: 13B7DWRv5myVrJk3XSkAYZtM9afNEXetoH  |  Balance: 0.0000
+  ETH: 0x1641bd0847553f63290c7a90097787bb3ced7acd  |  Balance: 0.0000
+  SOL: 5u2oZp695gtvHCQ7o327of1ny79WLE6esYd2D9X3bcdi  |  Balance: 0.0000
+  BNB: 0x1641bd0847553f63290c7a90097787bb3ced7acd  |  Balance: ERR
+------------------------------------------------------------
+Seed #90: faint fair faith fall false fame family famous fan fancy fantasy farm
+  BTC: 1F9j1Am3QCtX7k8LHAjgnYcLMGjCfGwKLK  |  Balance: 0.0000
+  ETH: 0x0ba69b9d4984425cf7dc7bb9650bc1ee3781349e  |  Balance: 0.0000
+  SOL: DNwqHgcZ51TewpJXQMN3S4iRtQUHRfiywk2t17ChByU8  |  Balance: 0.0000
+  BNB: 0x0ba69b9d4984425cf7dc7bb9650bc1ee3781349e  |  Balance: ERR
+------------------------------------------------------------
+Seed #91: fat fatal father fatigue fault favorite feature february federal fee feed feel
+  BTC: 18vzG6rA4T5Hpn6qzYpUu3fZyVZSsvL61K  |  Balance: 0.0000
+  ETH: 0x4381b38897aa0ee6756fdffb8cee0be985f3ec45  |  Balance: 0.0000
+  SOL: CGfnEsBswfVDQz1YoNhqak3NGG4uanJ8Haa1PTreXsVh  |  Balance: 0.0000
+  BNB: 0x4381b38897aa0ee6756fdffb8cee0be985f3ec45  |  Balance: ERR
+------------------------------------------------------------
+Seed #92: fence fender ferry festival fetch fever few fiber fiction field figure file
+  BTC: 1Hg9qwkfNu5g74r9BAPvoSGQRJQDs4kyrc  |  Balance: 0.0000
+  ETH: 0x7be70a9d2c3ae9e9300c53eca766ffec03b3fd2f  |  Balance: 0.0000
+  SOL: CnjtUm42QTnCEV7oAcjvJJPkYE1oRTRFNJWc4E7NAuvk  |  Balance: 0.0000
+  BNB: 0x7be70a9d2c3ae9e9300c53eca766ffec03b3fd2f  |  Balance: ERR
+------------------------------------------------------------
+Seed #93: finger finish fire firm first fiscal fish fit fitness fix flag flame
+  BTC: 1HUCQZy6VdvHjyn63TeNfoZiNRFufvMVEL  |  Balance: 0.0000
+  ETH: 0x4e2f08530071784e1205bb1e505d6aec6840fc1b  |  Balance: 0.0000
+  SOL: Eawm2PfqHQG15VDpr24BPhbdpxfMq19Fjx6DYizDhjsN  |  Balance: 0.0000
+  BNB: 0x4e2f08530071784e1205bb1e505d6aec6840fc1b  |  Balance: ERR
+------------------------------------------------------------
+Seed #94: flat flavor flaw flee flesh flight flip float flock floor flower fluid
+  BTC: 1HLrfqELpYE4iFkoHSXacWUaJwar6nMK84  |  Balance: 0.0000
+  ETH: 0xaf09067959e1a58a7deff29a753082a7abeea677  |  Balance: 0.0000
+  SOL: 9SPUrUrbDBvKJxp7fP9vaV33tHe2oDYzRkrWpf21ST8Y  |  Balance: 0.0000
+  BNB: 0xaf09067959e1a58a7deff29a753082a7abeea677  |  Balance: ERR
+------------------------------------------------------------
+Seed #95: foam focus fog foil fold follow food foot football force forecast forehead
+  BTC: 1McPSseouN5YgE7himrtrPRzGXbYWwbVep  |  Balance: 0.0000
+  ETH: 0xa44616f09e1352d8406dc4138d617fbdfe48345b  |  Balance: 0.0000
+  SOL: ugBRLNtUUvQiZbhcwb8AHo5DpExKWpTiYUY7nWekQFa  |  Balance: 0.0000
+  BNB: 0xa44616f09e1352d8406dc4138d617fbdfe48345b  |  Balance: ERR
+------------------------------------------------------------
+Seed #96: forget fork fortune forward fossil foster found fox fragile frame frequent fresh
+  BTC: 15pc3ajSqKQCwQR2M63hph7akwbSNKW1U9  |  Balance: 0.0000
+  ETH: 0xa9b9b29c00a1afe4b40a22ab88ecb27edfe814b1  |  Balance: 0.0000
+  SOL: 2RHwu6s8To4ox9wbREeWfXW73ECDVeNPquZWqxCz714U  |  Balance: 0.0000
+  BNB: 0xa9b9b29c00a1afe4b40a22ab88ecb27edfe814b1  |  Balance: ERR
+------------------------------------------------------------
+Seed #97: fringe frock frog front frost frown frozen frugal fruit fuel fun funny
+  BTC: 16kQZeSYsNX6NLuTL3qhasGhQ5ndQ4VPv4  |  Balance: 0.0000
+  ETH: 0x6e856c25ae14bc08ffd80154ab5e6d334af647cd  |  Balance: 0.0000
+  SOL: 2gG8h3JwiuzK1uA5SRmPeUKF53zY8PLGecZAGCLyQgzd  |  Balance: 0.0000
+  BNB: 0x6e856c25ae14bc08ffd80154ab5e6d334af647cd  |  Balance: ERR
+------------------------------------------------------------
+Seed #98: future gadget gain galaxy gale gallery game gap garage garbage garden garlic
+  BTC: 1Mk6D7oW8wpnqtj8MoNE1VqSZraX5SFH3b  |  Balance: 0.0000
+  ETH: 0xe2d90f5d5d957be51218bb8ef483db5f16aefe8a  |  Balance: 0.0000
+  SOL: JA8tYWgBoUaoxV9Nc38oC5pyytL7fqPjxzRzcD3M6LU3  |  Balance: 0.0000
+  BNB: 0xe2d90f5d5d957be51218bb8ef483db5f16aefe8a  |  Balance: ERR
+------------------------------------------------------------
+Seed #99: gate gather gauge gaze general genius genre gentle genuine gesture ghost giant
+  BTC: 1NAe3sDRKPL1bc5Vc2Y2MsyuKUHbPU4FPK  |  Balance: 0.0000
+  ETH: 0x2306c8d891dbcd913b4c8bdd100fc9a0e8a470f7  |  Balance: 0.0000
+  SOL: 4NS4NdHuiGqJ3R8JKWLEwNCtbxLSgMs5VTtTb4iusPY7  |  Balance: 0.0000
+  BNB: 0x2306c8d891dbcd913b4c8bdd100fc9a0e8a470f7  |  Balance: ERR
+------------------------------------------------------------
+Seed #100: ginger giraffe girl give glad glance glare glass glide glimmer glimpse globe
+  BTC: 16e62GfX5boMKvR7sn8e9vmDBboZddxznK  |  Balance: 0.0000
+  ETH: 0xbc325bffb196366da8f099f493ccaab7022510ac  |  Balance: 0.0000
+  SOL: 5nspiBb26GPiA1kia8kcwES99TT5TdxQuof9q3z1FFfU  |  Balance: 0.0000
+  BNB: 0xbc325bffb196366da8f099f493ccaab7022510ac  |  Balance: ERR
+------------------------------------------------------------
