@@ -525,7 +525,7 @@ class SeedScannerApp(ctk.CTk):
                 lbl.bind("<Button-1>", lambda e, idx=i: self.on_row_click(idx))
 
             for j in range(len(self.cols)):
-                row_frame.grid_columnconfigure(j, weight=[0.4, 3, 1, 1, 1, 1][j] if j < 6 else 1)
+                row_frame.grid_columnconfigure(j, weight=[1, 4, 2, 2, 2, 2][j] if j < 6 else 1)
 
     def on_row_click(self, idx):
         self.selected_row = idx
