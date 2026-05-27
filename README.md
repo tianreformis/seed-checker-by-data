@@ -1,17 +1,18 @@
 # Seed Balance Scanner
 
-A Python desktop GUI app that scans mnemonic seed phrases from `data.txt` and checks wallet balances for BTC, ETH, SOL, and BNB.
+A Python desktop GUI app that scans mnemonic seed phrases from any text file and checks wallet balances for BTC, ETH, SOL, and BNB.
 
 ## Features
 
-- Read seed phrases from `data.txt` (one phrase per line, 12+ words)
-- Check/uncheck which coins to scan before starting
-- Derives wallet addresses locally using BIP44 (BTC, ETH, BNB) and SLIP10 ed25519 (SOL)
-- Fetches balances via public blockchain RPC APIs
-- Modern dark-themed desktop UI (customtkinter)
-- Progress bar, live status updates, found-count tracking
-- Click any result row to see full seed phrase and all derived addresses
-- Export results to a timestamped text file
+- **Browse any file** — pick your seed phrase file with the Browse button or type the path
+- **Select coins** — check/uncheck which coins to scan (BTC, ETH, SOL, BNB)
+- **Local derivation** — derives wallet addresses using BIP44 (BTC, ETH, BNB) and SLIP10 ed25519 (SOL) — seeds never leave your machine
+- **Balance API** — fetches live balances from public blockchain RPC endpoints
+- **Modern dark UI** — customtkinter with sidebar, scrollable results table, and detail panel
+- **Live progress** — progress bar, real-time status, found-count tracking
+- **Row details** — click any result row to see the full seed phrase and all derived addresses
+- **Export All** — saves full results (seed, addresses, balances) to a timestamped file
+- **Save Funded Only** — exports only seeds with non-zero balance (one per line)
 
 ## Requirements
 
@@ -37,15 +38,13 @@ The app can be packaged into a portable `.exe` (Windows) or `.deb` (Linux) that 
 
 ### Windows (.exe)
 
-Run the build script — it installs PyInstaller, bundles everything, and outputs a single `.exe`:
-
 ```powershell
 .\build_exe.bat
 ```
 
 Output: `dist\SeedBalanceScanner.exe`
 
-Double-click the `.exe` to run — no Python or dependencies required. Place your `data.txt` next to the `.exe`.
+Double-click it to run — no Python or dependencies required.
 
 ### Linux (.deb)
 
@@ -54,11 +53,9 @@ chmod +x build_exe.sh
 ./build_exe.sh
 ```
 
-The script builds a standalone binary and optionally creates a `.deb` package.
-
 Output: `dist/seed-balance-scanner_1.0.0_amd64.deb`
 
-Install with:
+Install:
 
 ```bash
 sudo dpkg -i dist/seed-balance-scanner_1.0.0_amd64.deb
@@ -67,37 +64,41 @@ seed-balance-scanner
 
 ## Usage
 
-1. **Prepare data.txt** — one mnemonic seed phrase per line (12, 18, or 24 words):
+1. **Prepare a text file** — one mnemonic seed phrase per line (12, 18, or 24 words):
 
 ```
 abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon art
 acid vintage artwork krypton gospel fossil glance frequent solid beyond exile bachelor
-...
 ```
 
-2. **Launch the app** — either `python main.py` or the built executable.
+2. **Launch the app** — either `python main.py` or double-click the built executable.
 
-3. In the GUI:
-   - Check/uncheck the coins you want to scan (BTC, ETH, SOL, BNB)
-   - Click **Start Scan**
-   - Progress updates in real time
-   - Click any result row to view full seed and addresses in the **Details** panel
-   - Click **Export Results** to save findings
+3. **In the GUI:**
+   - **File** — Click **Browse** to select your seed phrase file, or type the path directly in the entry box
+   - **Coins** — Check or uncheck which coins to scan
+   - **Start** — Click **Start Scan** to begin
+   - **Progress** — Watch live progress per seed. Rows turn green when a non-zero balance is found
+   - **Details** — Click any row to see the full seed, all derived addresses, and balances in the **Details** panel
+   - **Export All** — Saves a complete report (seed, addresses, balances for every seed)
+   - **Save Funded Only** — Saves only seeds that have a non-zero balance (one phrase per line)
 
 ## Coin Details
 
 | Coin | Derivation Path | Curve | Balance API |
 |---|---|---|---|
 | BTC | `m/44'/0'/0'/0/0` | secp256k1 | blockchain.info |
-| ETH | `m/44'/60'/0'/0/0` | secp256k1 | public RPC (blastapi) |
-| SOL | `m/44'/501'/0'/0'` | ed25519 | solana public RPC |
-| BNB | `m/44'/60'/0'/0/0` | secp256k1 | bsc-dataseed |
+| ETH | `m/44'/60'/0'/0/0` | secp256k1 | public Ethereum RPC |
+| SOL | `m/44'/501'/0'/0'` | ed25519 | Solana public RPC |
+| BNB | `m/44'/60'/0'/0/0` | secp256k1 | BSC public RPC |
 
-> ETH and BNB share the same derivation path (both use coin type 60) and will produce the same address.
+> ETH and BNB share the same derivation path (coin type 60) and will produce the same address.
 
-## Output
+## Output Files
 
-Results are displayed in the GUI table and can be exported to a text file (`results_YYYYMMDD_HHMMSS.txt`) with full seed phrases, derived addresses, and balances.
+| Button | File | Contents |
+|---|---|---|
+| Export All | `results_YYYYMMDD_HHMMSS.txt` | Full report: seed, addresses, balances for every seed |
+| Save Funded Only | `funded_YYYYMMDD_HHMMSS.txt` | Only seeds with non-zero balance (one per line) |
 
 ## Important Notes
 
@@ -116,7 +117,6 @@ seed-checker-by-data/
 ├── build_exe.sh        # Linux build script (.deb)
 ├── dist/               # Build output directory
 │   ├── SeedBalanceScanner.exe
-│   ├── seed-balance-scanner_1.0.0_amd64.deb
-│   └── data.txt
+│   └── seed-balance-scanner_1.0.0_amd64.deb
 └── README.md           # This file
 ```

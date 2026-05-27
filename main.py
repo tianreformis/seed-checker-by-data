@@ -10,7 +10,7 @@ import hashlib
 import hmac
 from typing import Dict, List, Optional, Tuple
 from datetime import datetime
-from tkinter import messagebox
+from tkinter import messagebox, filedialog
 
 try:
     from mnemonic import Mnemonic as MnemonicLib
@@ -254,6 +254,7 @@ class SeedScannerApp(ctk.CTk):
         self.seeds: List[str] = []
         self.results: List[dict] = []
         self.selected_row: Optional[int] = None
+        self.current_file: str = "data.txt"
 
         self.scanning = False
         self.stop_flag = threading.Event()
@@ -290,7 +291,7 @@ class SeedScannerApp(ctk.CTk):
                               font=ctk.CTkFont(size=20, weight="bold"), anchor="w")
         title.pack(anchor="w")
 
-        subtitle = ctk.CTkLabel(title_frame, text="Scan mnemonic seed phrases from data.txt for wallet balances",
+        subtitle = ctk.CTkLabel(title_frame, text="Scan mnemonic seed phrases from a text file for wallet balances",
                                 font=ctk.CTkFont(size=12), text_color="gray", anchor="w")
         subtitle.pack(anchor="w")
 
@@ -360,15 +361,30 @@ class SeedScannerApp(ctk.CTk):
         sep1 = ctk.CTkFrame(sidebar, height=1, fg_color=("gray70", "gray30"))
         sep1.grid(row=2, column=0, padx=18, pady=12, sticky="ew")
 
-        info_label = ctk.CTkLabel(sidebar, text="Data File", font=section_font, anchor="w")
-        info_label.grid(row=3, column=0, padx=18, pady=(0, 5), sticky="ew")
+        file_label = ctk.CTkLabel(sidebar, text="Data File", font=section_font, anchor="w")
+        file_label.grid(row=3, column=0, padx=18, pady=(0, 5), sticky="ew")
 
-        self.file_label = ctk.CTkLabel(sidebar, text="Loading...", font=ctk.CTkFont(size=12), anchor="w",
-                                        text_color="gray")
-        self.file_label.grid(row=4, column=0, padx=18, pady=(0, 10), sticky="nw")
+        file_entry_frame = ctk.CTkFrame(sidebar, fg_color="transparent")
+        file_entry_frame.grid(row=4, column=0, padx=18, pady=(0, 8), sticky="ew")
+        file_entry_frame.grid_columnconfigure(0, weight=1)
+
+        self.file_entry = ctk.CTkEntry(file_entry_frame, height=30, font=ctk.CTkFont(size=11))
+        self.file_entry.grid(row=0, column=0, sticky="ew", padx=(0, 4))
+        self.file_entry.insert(0, self.current_file)
+
+        browse_btn = ctk.CTkButton(file_entry_frame, text="Browse", font=ctk.CTkFont(size=11),
+                                    height=30, width=70, command=self.browse_file)
+        browse_btn.grid(row=0, column=1, sticky="e")
+
+        self.file_info = ctk.CTkLabel(sidebar, text="Loading...", font=ctk.CTkFont(size=11), anchor="w",
+                                       text_color="gray")
+        self.file_info.grid(row=5, column=0, padx=18, pady=(0, 6), sticky="ew")
+
+        sep2 = ctk.CTkFrame(sidebar, height=1, fg_color=("gray70", "gray30"))
+        sep2.grid(row=6, column=0, padx=18, pady=6, sticky="ew")
 
         btn_frame = ctk.CTkFrame(sidebar, fg_color="transparent")
-        btn_frame.grid(row=5, column=0, padx=18, pady=(5, 18), sticky="ew")
+        btn_frame.grid(row=7, column=0, padx=18, pady=(5, 18), sticky="ew")
         btn_frame.grid_columnconfigure(0, weight=1)
 
         self.start_btn = ctk.CTkButton(btn_frame, text="\u25B6  Start Scan", font=ctk.CTkFont(size=14, weight="bold"),
@@ -381,10 +397,15 @@ class SeedScannerApp(ctk.CTk):
                                        state="disabled", command=self.stop_scan)
         self.stop_btn.grid(row=1, column=0, pady=3, sticky="ew")
 
-        self.export_btn = ctk.CTkButton(btn_frame, text="\u2B07  Export Results", font=ctk.CTkFont(size=13),
-                                         height=34, corner_radius=8, fg_color="gray25", hover_color="gray35",
+        self.export_btn = ctk.CTkButton(btn_frame, text="\u2B07  Export All", font=ctk.CTkFont(size=13),
+                                         height=32, corner_radius=8, fg_color="gray25", hover_color="gray35",
                                          state="disabled", command=self.export_results)
-        self.export_btn.grid(row=2, column=0, pady=(6, 0), sticky="ew")
+        self.export_btn.grid(row=2, column=0, pady=3, sticky="ew")
+
+        self.save_funded_btn = ctk.CTkButton(btn_frame, text="\U0001F4B0  Save Funded Only", font=ctk.CTkFont(size=13),
+                                               height=32, corner_radius=8, fg_color="#1a6b3c", hover_color="#135530",
+                                               state="disabled", command=self.save_funded_only)
+        self.save_funded_btn.grid(row=3, column=0, pady=(3, 0), sticky="ew")
 
     def setup_main_panel(self, parent):
         main_panel = ctk.CTkFrame(parent, fg_color=("gray87", "gray18"), corner_radius=12)
@@ -457,7 +478,7 @@ class SeedScannerApp(ctk.CTk):
         self.progress.grid(row=0, column=0, padx=(15, 10), pady=6, sticky="ew", columnspan=4)
         self.progress.set(0)
 
-        self.status_label = ctk.CTkLabel(status_frame, text="Ready. Load seeds from data.txt",
+        self.status_label = ctk.CTkLabel(status_frame, text="Ready. Browse to a seed phrase file and start scanning.",
                                           font=ctk.CTkFont(size=12), anchor="w", text_color="gray")
         self.status_label.grid(row=1, column=0, padx=(15, 5), pady=(0, 6), sticky="w")
 
@@ -468,21 +489,49 @@ class SeedScannerApp(ctk.CTk):
                                          text_color="gray")
         self.count_label.grid(row=1, column=2, padx=(5, 15), pady=(0, 6), sticky="e")
 
-    def load_seed_file(self):
-        if getattr(sys, "frozen", False):
-            base_dir = os.path.dirname(sys.executable)
-        else:
-            base_dir = os.path.dirname(os.path.abspath(__file__))
-        data_path = os.path.join(base_dir, DATA_FILE)
-        if not os.path.exists(data_path):
-            data_path = DATA_FILE
-        self.seeds = load_seeds(data_path)
+    def load_seed_file(self, filepath: Optional[str] = None):
+        if filepath is None:
+            if getattr(sys, "frozen", False):
+                base_dir = os.path.dirname(sys.executable)
+            else:
+                base_dir = os.path.dirname(os.path.abspath(__file__))
+            filepath = os.path.join(base_dir, DATA_FILE)
+            if not os.path.exists(filepath):
+                filepath = DATA_FILE
+        self.current_file = filepath
+        self.seeds = load_seeds(filepath)
         count = len(self.seeds)
-        self.file_label.configure(text=f"{os.path.basename(DATA_FILE)}\n{count} seed{'' if count == 1 else 's'} loaded")
+        self.file_entry.delete(0, "end")
+        self.file_entry.insert(0, filepath)
+        self.file_info.configure(text=f"{os.path.basename(filepath)}\n{count} seed{'' if count == 1 else 's'} loaded")
         if count == 0:
-            self.status_label.configure(text="\u26A0 No valid seed phrases found in data.txt")
+            self.status_label.configure(text=f"\u26A0 No valid seed phrases found in {os.path.basename(filepath)}")
         else:
             self.status_label.configure(text=f"Ready to scan {count} seed{'' if count == 1 else 's'}")
+
+    def browse_file(self):
+        filepath = filedialog.askopenfilename(
+            title="Select seed phrase file",
+            filetypes=[("Text files", "*.txt"), ("All files", "*.*")],
+        )
+        if filepath:
+            self.reset_scan_state()
+            self.load_seed_file(filepath)
+
+    def reset_scan_state(self):
+        self.scanning = False
+        self.stop_flag.set()
+        self.results = []
+        self.selected_row = None
+        self.clear_table()
+        self.progress.set(0)
+        self.start_btn.configure(state="normal")
+        self.stop_btn.configure(state="disabled")
+        self.export_btn.configure(state="disabled")
+        self.save_funded_btn.configure(state="disabled")
+        self.status_label.configure(text="")
+        self.found_label.configure(text="")
+        self.count_label.configure(text="")
 
     def clear_table(self):
         for w in self.table_canvas.winfo_children():
@@ -580,6 +629,7 @@ class SeedScannerApp(ctk.CTk):
         self.start_btn.configure(state="disabled")
         self.stop_btn.configure(state="normal")
         self.export_btn.configure(state="disabled")
+        self.save_funded_btn.configure(state="disabled")
 
         self.results = []
         for i, seed in enumerate(self.seeds):
@@ -609,6 +659,10 @@ class SeedScannerApp(ctk.CTk):
         if self.scanning:
             self.stop_flag.set()
             self.status_label.configure(text="Stopping scan...")
+            self.start_btn.configure(state="normal")
+            self.stop_btn.configure(state="disabled")
+            self.export_btn.configure(state="normal")
+            self.save_funded_btn.configure(state="normal")
 
     def scan_worker(self, active_coins):
         total = len(self.seeds)
@@ -693,6 +747,7 @@ class SeedScannerApp(ctk.CTk):
                     self.stop_btn.configure(state="disabled")
                     self.start_btn.configure(state="normal")
                     self.export_btn.configure(state="normal")
+                    self.save_funded_btn.configure(state="normal")
 
                     if data.get("stopped"):
                         self.status_label.configure(text="Scan stopped by user.")
@@ -735,6 +790,24 @@ class SeedScannerApp(ctk.CTk):
                 f.write(line)
 
         self.status_label.configure(text=f"Results exported to {filename}")
+
+    def save_funded_only(self):
+        if not self.results:
+            return
+
+        funded = [r for r in self.results if any(b > 0 for b in r["balances"].values())]
+        if not funded:
+            messagebox.showinfo("No Funded Seeds", "No seeds with non-zero balance found.")
+            return
+
+        filename = f"funded_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
+        with open(filename, "w", encoding="utf-8") as f:
+            for r in funded:
+                f.write(r["mnemonic"] + "\n")
+
+        self.status_label.configure(
+            text=f"Saved {len(funded)} funded seed{'' if len(funded) == 1 else 's'} to {filename}"
+        )
 
 
 if __name__ == "__main__":
