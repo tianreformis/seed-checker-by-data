@@ -1,0 +1,8 @@
+customtkinter>=5.2.0
+mnemonic>=0.20
+coincurve>=18.0.0
+pycryptodome>=3.15.0
+PyNaCl>=1.5.0
+base58>=2.1.0
+requests>=2.28.0
+Pillow>=9.0.0
